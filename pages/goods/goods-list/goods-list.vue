@@ -6,8 +6,8 @@
 				<view v-if="target.orderbyicon" class="icon" :class="target.orderbyicon[target.orderby]"></view>
 			</view>
 		</view> 
-		<!-- 占位 -->
-		<view class="place"></view>
+		<!-- 占位 gitTest-->
+		<view class="place">???</view>
 		<!-- 商品列表 -->
 		<view class="goods-list">
 			<view class="product-list">
