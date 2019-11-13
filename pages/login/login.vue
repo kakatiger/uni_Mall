@@ -8,7 +8,7 @@
 		<!-- 账号密码输入框 -->
 		<view class="form">
 			<view class="username">
-				<input placeholder="请输入手机号" v-model="phoneNumber" placeholder-style="color: rgba(255,255,255,0.8);"/>
+				<input placeholder="请输入手机号11" v-model="phoneNumber" placeholder-style="color: rgba(255,255,255,0.8);"/>
 			</view>
 			<view class="password">
 				<input placeholder="请输入密码" v-model="passwd" password=true placeholder-style="color: rgba(255,255,255,0.8);"/>
