@@ -60,7 +60,7 @@
 			return {
 				amount:0,
 				orderName:'',
-				paytype:'alipay'//支付类型
+				paytype:'alipay'//支付类型 ugly
 			};
 		},
 		onLoad(e) {
