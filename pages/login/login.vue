@@ -52,7 +52,7 @@
 			
 		},
 		onLoad() {
-			//APP显示第三方登录
+			//APP显示第三方登录 开心
 			// #ifdef APP-PLUS
 				this.isShowOauth=true;
 			// #endif
